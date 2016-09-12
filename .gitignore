@@ -1,7 +1,11 @@
 /node_modules
+/public
 /public/storage
 /vendor
 /.idea
+/.gitattributes
 Homestead.json
 Homestead.yaml
 .env
+books.dev.iml
+books.iml
